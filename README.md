@@ -15,7 +15,7 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 <p align="left">
 📫 dharagesh@gmail.com / sdhamuvkl@gmail.com
-<a href="https://www.youtube.com/c/dharageswaran s {team zenfox}" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dharageswaran s {team zenfox}" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dharageswaransteamzenfox3786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dharageswaran s {team zenfox}" height="30" width="40" /></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
