@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 - 🔭 I’m currently working on **Sonar Acoustic Defense System, FluidGuard: Intelligent Liquid Level Management and Refill Solution & Bluetooth Music Playback Device **
 
-- 👨‍💻 All of my projects are available at [https://dharageshtech.wordpress.com](https://dharageshtech.wordpress.com/) & [GitHub](https://github.com/DhamuVkl?tab=repositories)
+- 👨‍💻 All of my projects are available at [www.dharageshtech.wordpress.com](https://dharageshtech.wordpress.com/) & [GitHub](https://github.com/DhamuVkl?tab=repositories)
 
 - 💬 Ask me about **Embedded Systems, PCB Design, Robotics**
 
@@ -14,7 +14,7 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 <p align="left">
-- 📫 dharagesh@gmail.com / sdhamuvkl@gmail.com
+📫 dharagesh@gmail.com / sdhamuvkl@gmail.com
 <a href="https://www.youtube.com/c/dharageswaran s {team zenfox}" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dharageswaran s {team zenfox}" height="30" width="40" /></a>
 </p>
 
@@ -40,4 +40,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhamuvkl&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=dhamuvkl&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
-
+<details>
+  <br />
+  <summary>⚙️ <b> Things I use to get stuff done</b></summary>
+  	<ul>
+  	   <li><b>OS:</b> Windows 11 Pro Education </li>
+	     <li><b>Laptop: </b> Lenovo IdeaPad 3 (AMD RYZEN 7 6800H)</li>
+	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	     <li><b>To Stay Updated:</b> GitHub </li>
+	    <br />
+	</ul>
+</details>
