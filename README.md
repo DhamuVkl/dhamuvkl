@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*RTGHo8x278rzhj2cZSjwtA.gif)](https://dharageshtech.wordpress.com)
 <h1 align="center">Hi 👋, I'm Dharageswaran S</h1>
 <h3 align="center">Electronics Enthusiast | Innovator | Tech Visionary</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Sonar Acoustic Defense System**
 
