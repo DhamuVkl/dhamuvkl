@@ -4,13 +4,9 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-- 🔭 I’m currently working on **Sonar Acoustic Defense System**
+- 🔭 I’m currently working on **Sonar Acoustic Defense System, FluidGuard: Intelligent Liquid Level Management and Refill Solution & Bluetooth Music Playback Device **
 
-- 🔭 I’m currently working on **FluidGuard: Intelligent Liquid Level Management and Refill Solution**
-
-- 🔭 I’m currently working on **Bluetooth Music Playback Device**
-
-- 👨‍💻 All of my projects are available at [https://dharageshtech.wordpress.com/](https://dharageshtech.wordpress.com/)
+- 👨‍💻 All of my projects are available at [https://dharageshtech.wordpress.com](https://dharageshtech.wordpress.com/) & [GitHub](https://github.com/DhamuVkl?tab=repositories)
 
 - 💬 Ask me about **Embedded Systems, PCB Design, Robotics**
 
