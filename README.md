@@ -39,10 +39,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
   ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhamuvkl&show_icons=true&locale=en&layout=compact" alt="dhamuvkl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhamuvkl&show_icons=true&locale=en" alt="dhamuvkl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhamuvkl&" alt="dhamuvkl" /></p>
+![](https://github-readme-stats.vercel.app/api?username=dhamuvkl&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhamuvkl&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhamuvkl&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
