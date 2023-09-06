@@ -1,8 +1,9 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*RTGHo8x278rzhj2cZSjwtA.gif)](https://dharageshtech.wordpress.com)
 <h1 align="center">Hi 👋, I'm Dharageswaran S</h1>
 <h3 align="center">Electronics Enthusiast | Innovator | Tech Visionary</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 - 🔭 I’m currently working on **Sonar Acoustic Defense System**
 
 - 🔭 I’m currently working on **FluidGuard: Intelligent Liquid Level Management and Refill Solution**
