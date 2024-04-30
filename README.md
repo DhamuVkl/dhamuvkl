@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 - 🔭 I’m currently working on **Sonar Acoustic Defense System, FluidGuard & Designing a Bluetooth Music Playback Device **
 
-- 👨‍💻 All of my projects are available at [www.dharageshtech.wordpress.com](https://dharageshtech.online/) & [GitHub](https://github.com/DhamuVkl?tab=repositories)
+- 👨‍💻 All of my projects are available at [www.dharageshtech.online](https://dharageshtech.online/) & [GitHub](https://github.com/DhamuVkl?tab=repositories)
 
 - 💬 Ask me about **Embedded Systems, PCB Design, Robotics**
 
