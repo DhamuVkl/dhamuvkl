@@ -16,7 +16,7 @@
 <p align="left">
 📫 dharagesh@gmail.com / sdhamuvkl@gmail.com
 	
-<a href="https://www.youtube.com/@dharageswaransteamzenfox3786" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-81-189777.png?f=webp&w=256" alt="dharageswaran s {team zenfox}" height="60" width="60" /></a>
+<a href="https://www.youtube.com/@dharageswaransteamzenfox3786" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-social-333-116367.png?f=webp&w=256" alt="dharageswaran s {team zenfox}" height="60" width="60" /></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
