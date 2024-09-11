@@ -1,9 +1,12 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*RTGHo8x278rzhj2cZSjwtA.gif)](https://dharageshtech.wordpress.com)
 <h1 align="center">Hi 👋, I'm Dharageswaran S</h1>
-<h3 align="center">Electronics Enthusiast | Innovator | Tech Visionary</h3>
+<h3 align="center">Embedded Design Engineer | Electronics Enthusiast | Innovator</h3>
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+Design Engineer with 3+ years of creating industrial and household products. Expertise in
+ managing projects from initiation to implementation, High-Speed PCB design, Embedded
+ System integration, and 3D CAD design. 
 - 🔭 I’m currently working on **Sonar Acoustic Defense System, FluidGuard & Designing a Bluetooth Music Playback Device **
 
 - 👨‍💻 All of my projects are available at [www.dharageshtech.online](https://dharageshtech.online/) & [GitHub](https://github.com/DhamuVkl?tab=repositories)
@@ -16,7 +19,7 @@
 <p align="left">
 📫 sdharagesh@gmail.com / sdhamuvkl@gmail.com
 	
-<a href="https://www.youtube.com/@dharageswaransteamzenfox3786" target="blank"><img align="center" src="https://stock.adobe.com/in/images/youtube-logo-on-a-transparent-background-vector-illustration-vinnitsa-ukraine-may-28-2022/507468479" alt="dharageswaran s {team zenfox}" height="60" width="60" /></a>
+<a href="https://www.youtube.com/@dharageswaransteamzenfox3786" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--google-brands-pack-logos-icons-226404.png?f=webp&w=256" alt="dharageswaran s {team zenfox}" height="60" width="60" /></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
