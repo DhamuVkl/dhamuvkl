@@ -19,7 +19,7 @@ Design Engineer with 3+ years of creating industrial and household products. Exp
 <p align="left">
 📫 sdharagesh@gmail.com / sdhamuvkl@gmail.com
 	
-<a href="https://www.youtube.com/@dharageswaransteamzenfox3786" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--google-brands-pack-logos-icons-226404.png?f=webp&w=256" alt="dharageswaran s {team zenfox}" height="60" width="60" /></a>
+<a href="https://www.youtube.com/@dharageswaransteamzenfox3786" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-logo-icon-download-in-svg-png-gif-file-formats--social-media-online-slanted-out-pack-logos-icons-434151.png?f=webp&w=256" alt="dharageswaran s {team zenfox}" height="60" width="80" /></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
