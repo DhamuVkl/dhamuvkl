@@ -9,7 +9,8 @@ Design Engineer with 3+ years of creating industrial and household products. Exp
  System integration, and 3D CAD design. 
 - 🔭 I’m currently working on **Sonar Acoustic Defense System, FluidGuard & Designing a Bluetooth Music Playback Device **
 
-- 👨‍💻 All of my projects are available at [www.dhargeshtech.org](https://www.dhargeshtech.org) & [GitHub](https://github.com/DhamuVkl?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://www.dharageshtech.org" target="_blank" rel="noopener noreferrer">www.dharageshtech.org</a>
+ & [GitHub](https://github.com/DhamuVkl?tab=repositories)
 
 - 💬 Ask me about **Embedded Systems, PCB Design, Robotics**
 
