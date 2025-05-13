@@ -1,13 +1,13 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*RTGHo8x278rzhj2cZSjwtA.gif)](https://dharageshtech.wordpress.com)
 <h1 align="center">Hi 👋, I'm Dharageswaran S</h1>
-<h3 align="center">Embedded Design Engineer | Electronics Enthusiast | Innovator</h3>
+<h3 align="center">Embedded Design Engineer | Entrepreneur | Innovator</h3>
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 Design Engineer with 3+ years of creating industrial and household products. Expertise in
  managing projects from initiation to implementation, High-Speed PCB design, Embedded
  System integration, and 3D CAD design. 
-- 🔭 I’m currently working on **Sonar Acoustic Defense System, FluidGuard & Designing a Bluetooth Music Playback Device **
+- 🔭 I’m currently working on **Sonar Acoustic Defense System, FluidGuard & Designing a FusionPress Machine **
 
 - 👨‍💻 All of my projects are available at [www.dharageshtech.org](https://www.dharageshtech.org)  & [GitHub](https://github.com/DhamuVkl?tab=repositories)
 
